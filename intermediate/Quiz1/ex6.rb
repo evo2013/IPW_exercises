@@ -12,5 +12,5 @@ end
 
 
 #
-buffer1 alters buffer by appending new_element
-buffer2 leaves buffer as is. new_element does not alter it.
+#buffer1 alters buffer by appending new_element
+#buffer2 leaves buffer as is. new_element does not alter it.
